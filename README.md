@@ -1,2 +1,1 @@
-# UnsupervisedLearning
-Unsupervised Learning in Python :maple_leaf:
+# Unsupervised Learning in Python :maple_leaf:
